@@ -1,1 +1,1 @@
-## Pnemonia Detection using Deep Learning##
+# Pnemonia Detection using Deep Learning.
