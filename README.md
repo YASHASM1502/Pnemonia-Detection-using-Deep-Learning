@@ -9,15 +9,15 @@ Early detection of Pneumonia can significantly improve treatment outcomes, and t
 
 🚀 Features
 
-*🧠 Deep Learning-based image classification
+* 🧠 Deep Learning-based image classification
 
-*🩻 Supports both Normal and Pneumonia chest X-rays
+* 🩻 Supports both Normal and Pneumonia chest X-rays
 
-*📊 Real-time prediction interface (optional Flask or Streamlit app)
+* 📊 Real-time prediction interface (optional Flask or Streamlit app)
 
-*🧪 Trained and validated on Chest X-Ray dataset (Kaggle)
+* 🧪 Trained and validated on Chest X-Ray dataset (Kaggle)
 
-*🔍 Visualizations for accuracy, loss, and confusion matrix
+* 🔍 Visualizations for accuracy, loss, and confusion matrix
 
 🧩 Tech Stack
 
