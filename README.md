@@ -21,14 +21,14 @@ Early detection of Pneumonia can significantly improve treatment outcomes, and t
 
 🧩 Tech Stack
 
-Programming Language: Python
+* Programming Language: Python
 
-Frameworks/Libraries:
+* Frameworks/Libraries:
 
-TensorFlow / Keras
+* TensorFlow / Keras
 
-NumPy, Pandas, Matplotlib, Seaborn
+* NumPy, Pandas, Matplotlib, Seaborn
 
-scikit-learn
+* scikit-learn
 
-OpenCV
+* OpenCV
